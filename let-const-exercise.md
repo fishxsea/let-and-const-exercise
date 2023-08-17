@@ -25,5 +25,5 @@ _**What is the difference between var and const?**_
 _**What is the difference between let and const?**_
 - let can be reassigned while const cannot
 
-_**What is hoisting?**
+_**What is hoisting?**_
 - variable and function declarations are moved to the top of their containing scope during the compilation.
